@@ -1,6 +1,6 @@
 # vuetest
 
-> A Vue.js project
+> https://www.visualcv.com/app/#/cvs/4456007
 
 ## Build Setup
 
