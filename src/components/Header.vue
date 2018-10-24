@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     head
   </div>
 </template>
@@ -16,4 +16,7 @@ export default {
 </script>
 
 <style scoped>
+  .container {
+
+  }
 </style>
