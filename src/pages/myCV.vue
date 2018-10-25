@@ -1,13 +1,13 @@
 <template>
   <el-container style="height: 100%;">
-    <el-header style="background-color: aqua;">
+    <el-header style="background-color: #545c64;padding: 0 12px;">
       <Header></Header>
     </el-header>
     <el-container>
-      <el-aside width="200px" style="background-color: red;">
+      <el-aside width="50px" style="background-color: #545c64;">
         <Aside></Aside>
       </el-aside>
-      <el-main style="background-color: green;">
+      <el-main style="background-color: #f6f6f6;">
         <MainBody></MainBody>
       </el-main>
     </el-container>
