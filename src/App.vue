@@ -19,4 +19,9 @@ export default {
   #app {
     height: 100%;
   }
+  a {
+    color: #428bca;
+    text-decoration: none;
+    background-color: transparent;
+  }
 </style>
